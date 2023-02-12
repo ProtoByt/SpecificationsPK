@@ -1,0 +1,11 @@
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\bin\x64\Release\SpecificationsPK.exe.config
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\bin\x64\Release\SpecificationsPK.exe
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\bin\x64\Release\SpecificationsPK.pdb
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.Form1.resources
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.Properties.Resources.resources
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.csproj.GenerateResource.cache
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.exe
+C:\Users\IT\Documents\Visual Studio 2022\projekt\SpecificationsPK\obj\x64\Release\SpecificationsPK.pdb
